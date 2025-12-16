@@ -1,4 +1,4 @@
 # venv
 apps/scrapers/venv
 .env
-apps/scrapers/redis-test.py
+apps/redis/redis-test.py
